@@ -1,0 +1,6 @@
+test_data/
+results/
+algorithm_fifo_results/
+algorithm_lru_results
+.idea/
+__pycache__/
